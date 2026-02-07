@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Gustavo 👋
 
-<!--
-**GustavoRyouji/GustavoRyouji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner Python developer currently focused on learning
+programming logic and building small projects step by step.
 
-Here are some ideas to get you started:
+### What I'm learning
+- Python basics
+- Programming logic
+- Conditionals and user input
+- Version control with Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Goals
+- Improve my Python skills
+- Learn loops and functions
+- Build small automation and data-related projects in the future
+
+I'm documenting my learning journey here on GitHub.
