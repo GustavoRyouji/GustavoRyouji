@@ -1,10 +1,10 @@
-# Hi, I’m Gustavo 👋
+# Gustavo Ferreira
 
-I’m a technology student with a strong interest in Data Analytics, Python, SQL, and Business Intelligence.
+Data Analytics Student | Python | SQL | Power BI
 
-Currently, I’m building practical projects to improve my skills in data analysis, database management, and problem-solving. My goal is to start my career in the data field and continue growing through hands-on experience.
+I’m currently focused on building practical projects in data analytics, database management, and business intelligence.
 
-## Technologies I’m Learning
+## Skills
 
 * Python
 * SQL
@@ -15,32 +15,20 @@ Currently, I’m building practical projects to improve my skills in data analys
 
 ## Projects
 
-### Library Management System
+- Library Management System
 
-A project developed to practice programming and database concepts.
+A Python and SQLite project for managing books, users, and loans.
 
-### Technologies Used:
+## Currently Learning
 
-* Python
-* SQLite
+* SQL JOINs
+* Data Analysis with Pandas
+* Dashboard Design
+* Data Storytelling
 
-## Upcoming Projects
+## Goal
 
-* Sales Data Analysis using SQL, Pandas, and Power BI
-* Interactive Business Dashboard
-* Data Cleaning and Exploratory Data Analysis
-* PlayStation Store Market Analysis
-
-## What I’m Currently Working On
-
-* Improving SQL skills (JOINs, database modeling, and queries)
-* Learning data analysis with Pandas
-* Building projects to strengthen my portfolio
-* Studying Business Intelligence and data visualization
-
-## Goals
-
-My objective is to become a Data Analyst capable of transforming raw data into valuable insights that support decision-making.
+To start my career as a Data Analyst and turn data into actionable insights.
 
 ## Contact
 
