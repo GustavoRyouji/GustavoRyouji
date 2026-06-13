@@ -1,17 +1,55 @@
-## Hi, I'm Gustavo 👋
+##Hi, I’m Gustavo 👋
 
-I'm a beginner Python developer currently focused on learning
-programming logic and building small projects step by step.
+I’m a technology student with a strong interest in Data Analytics, Python, SQL, and Business Intelligence.
 
-### What I'm learning
-- Python basics
-- Programming logic
-- Conditionals and user input
-- Version control with Git and GitHub
+Currently, I’m building practical projects to improve my skills in data analysis, database management, and problem-solving. My goal is to start my career in the data field and continue growing through hands-on experience.
 
-### Goals
-- Improve my Python skills
-- Learn loops and functions
-- Build small automation and data-related projects in the future
+##Technologies I’m Learning
 
-I'm documenting my learning journey here on GitHub.
+* Python
+* SQL
+* SQLite
+* Pandas
+* Power BI
+* Git & GitHub
+
+##Projects
+
+- Library Management System
+
+A project developed to practice programming and database concepts.
+
+- Technologies Used
+
+* Python
+* SQLite
+
+##Features
+
+* Book registration
+* User registration
+* Loan management
+* Database queries
+
+##Upcoming Projects
+
+* Sales Data Analysis using SQL, Pandas, and Power BI
+* Interactive Business Dashboard
+* Data Cleaning and Exploratory Data Analysis
+* PlayStation Store Market Analysis
+
+##What I’m Currently Working On
+
+* Improving SQL skills (JOINs, database modeling, and queries)
+* Learning data analysis with Pandas
+* Building projects to strengthen my portfolio
+* Studying Business Intelligence and data visualization
+
+Goals
+
+My objective is to become a Data Analyst capable of transforming raw data into valuable insights that support decision-making.
+
+Contact
+
+* LinkedIn: Your LinkedIn Profile
+* GitHub: Your GitHub Username
