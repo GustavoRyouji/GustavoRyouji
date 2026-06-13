@@ -1,4 +1,4 @@
-##Hi, I’m Gustavo 👋
+#Hi, I’m Gustavo 👋
 
 I’m a technology student with a strong interest in Data Analytics, Python, SQL, and Business Intelligence.
 
@@ -45,11 +45,11 @@ A project developed to practice programming and database concepts.
 * Building projects to strengthen my portfolio
 * Studying Business Intelligence and data visualization
 
-Goals
+##Goals
 
 My objective is to become a Data Analyst capable of transforming raw data into valuable insights that support decision-making.
 
-Contact
+##Contact
 
-* LinkedIn: Your LinkedIn Profile
+* LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/gustavo-ryouji-amano-ferreira-565b681b2)
 * GitHub: Your GitHub Username
