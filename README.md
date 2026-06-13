@@ -15,7 +15,7 @@ Currently, I’m building practical projects to improve my skills in data analys
 
 ## Projects
 
-- Library Management System
+### Library Management System
 
 A project developed to practice programming and database concepts.
 
