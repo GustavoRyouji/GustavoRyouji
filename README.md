@@ -19,7 +19,7 @@ Currently, I’m building practical projects to improve my skills in data analys
 
 A project developed to practice programming and database concepts.
 
-- Technologies Used
+### Technologies Used
 
 * Python
 * SQLite
