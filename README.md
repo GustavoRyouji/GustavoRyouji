@@ -32,4 +32,4 @@ To start my career as a Data Analyst and turn data into actionable insights.
 
 ## Contact
 
-* LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/gustavo-ryouji-amano-ferreira-565b681b2)
+* LinkedIn: [Gustavo Ferreira](https://www.linkedin.com/in/gustavo-ryouji-amano-ferreira-565b681b2)
