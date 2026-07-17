@@ -15,18 +15,18 @@ I’m currently focused on building practical projects in data analytics, databa
 
 ## Projects
 
-- Library Management System
+# Library Management System
 
 A Python and SQLite project for managing books, users, and loans.
 
-- Chinook Sales Analysis
+# Chinook Sales Analysis
 
 SQL analysis of the Chinook sales database, exploring revenue distribution by country and music genre using aggregations,
 JOINs, and structured business questions.
 
 ## Currently Learning
 
-* SQL Subquerys and Windows Functions
+* SQL Subqueries and Window Functions
 * Data Analysis with Pandas
 * Dashboard Design
 * Data Storytelling
