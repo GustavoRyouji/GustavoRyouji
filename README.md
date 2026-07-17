@@ -19,9 +19,14 @@ I’m currently focused on building practical projects in data analytics, databa
 
 A Python and SQLite project for managing books, users, and loans.
 
+- Chinook Sales Analysis
+
+SQL analysis of the Chinook sales database, exploring revenue distribution by country and music genre using aggregations,
+JOINs, and structured business questions.
+
 ## Currently Learning
 
-* SQL JOINs
+* SQL Subquerys and Windows Functions
 * Data Analysis with Pandas
 * Dashboard Design
 * Data Storytelling
@@ -33,3 +38,4 @@ To start my career as a Data Analyst and turn data into actionable insights.
 ## Contact
 
 * LinkedIn: [Gustavo Ferreira](https://www.linkedin.com/in/gustavo-ryouji-amano-ferreira-565b681b2)
+* Email: [Gustavo Ryouji](gustavinhoryouji.jp@gmail.com)
