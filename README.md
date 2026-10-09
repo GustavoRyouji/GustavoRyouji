@@ -8,9 +8,7 @@ I’m currently focused on building practical projects in data analytics, databa
 
 * Python
 * SQL
-* SQLite
-* Pandas
-* Power BI
+* Web Design (HTML, CSS, JavaScript)
 * Git & GitHub
 <br>
 
