@@ -12,7 +12,7 @@ I’m currently focused on building practical projects in data analytics, databa
 * Pandas
 * Power BI
 * Git & GitHub
-
+<br>
 ---
 
 ## 🤖 Languages & Technologies
@@ -57,7 +57,7 @@ I’m currently focused on building practical projects in data analytics, databa
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<br>
 ---
 
 ## 📊 Estatísticas
@@ -77,7 +77,7 @@ I’m currently focused on building practical projects in data analytics, databa
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRyouji&theme=midnightpurple&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
+<br>
 ---
 
 ## Projects
