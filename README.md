@@ -64,7 +64,7 @@ I’m currently focused on building practical projects in data analytics, databa
 
 <p>
   <img 
-    align="center" 
+    align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
@@ -72,9 +72,9 @@ I’m currently focused on building practical projects in data analytics, databa
   />
 
 <img 
-      align="right" 
+      align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="400" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRyouji&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 <br>
