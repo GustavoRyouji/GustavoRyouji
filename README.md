@@ -56,6 +56,14 @@ I’m currently focused on building practical projects in data analytics, databa
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="GitHub" 
+    title="GitHub"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://github.com/devicons/devicon/blob/v2.17.0/icons/github/github-original.svg)" 
+/>
 <br>
 ---
 
@@ -74,7 +82,7 @@ I’m currently focused on building practical projects in data analytics, databa
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="400" 
+      height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRyouji&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 <br>
