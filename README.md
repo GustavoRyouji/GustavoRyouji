@@ -62,7 +62,7 @@ I’m currently focused on building practical projects in data analytics, databa
     title="GitHub"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[(https://github.com/devicons/devicon/blob/v2.17.0/icons/github/github-original.svg)](https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/github/github-original.svg)" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 <br>
 ---
