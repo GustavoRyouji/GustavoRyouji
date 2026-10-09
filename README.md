@@ -10,6 +10,7 @@ I’m currently focused on building practical projects in data analytics, databa
 * SQL
 * Web Design (HTML, CSS, JavaScript)
 * Git & GitHub
+* Power BI
 <br>
 
 ## 🤖 Languages & Technologies
