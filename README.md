@@ -75,7 +75,7 @@ I’m currently focused on building practical projects in data analytics, databa
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRyouji&theme=midnightpurple&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRyouji&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 <br>
 
