@@ -107,7 +107,7 @@ I’m currently focused on building practical projects in data analytics, databa
 ---
 
 
-## 📊 Estatísticas
+## 📊 Statistics
 
 <p>
   <img 
