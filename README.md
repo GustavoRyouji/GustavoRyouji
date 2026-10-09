@@ -81,6 +81,12 @@ I’m currently focused on building practical projects in data analytics, databa
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Projects
 
