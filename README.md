@@ -57,7 +57,7 @@ I’m currently focused on building practical projects in data analytics, databa
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <br>
-
+---
 ## 📊 Estatísticas
 
 <p>
