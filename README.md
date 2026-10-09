@@ -78,7 +78,7 @@ I’m currently focused on building practical projects in data analytics, databa
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoRyouji&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 <br>
-
+<br>
 
 ## Projects
 
