@@ -13,7 +13,7 @@ I’m currently focused on building practical projects in data analytics, databa
 * Power BI
 * Git & GitHub
 <br>
----
+
 
 ## 🤖 Languages & Technologies
 
