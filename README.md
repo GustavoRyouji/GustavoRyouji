@@ -41,6 +41,14 @@ I’m currently focused on building practical projects in data analytics, databa
 />
 <img 
     align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -154,6 +162,9 @@ JOINs, and structured business questions.
 * Data Analysis with Pandas
 * Dashboard Design
 * Data Storytelling
+* Java 
+* Object-Oriented Programming (OOP)
+* JavaScript 
 
 ---
 
